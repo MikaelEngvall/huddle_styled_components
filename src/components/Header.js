@@ -20,7 +20,7 @@ export default function Header() {
               HEADHUNTER helps you create perfect job listings for your target in minutes. It’s simple and doesn’t require any technical skills.
             </p>
 
-            <Button bg='#ff0099' color='#fff'>
+            <Button bg='#59b5ca' color='#fff'>
               Register now
             </Button>
           </div>
