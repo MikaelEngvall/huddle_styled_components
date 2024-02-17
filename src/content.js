@@ -1,20 +1,20 @@
 const content = [
   {
     id: 1,
-    title: 'Grow Together',
-    body: 'Generate meaningful discussions with your audience and build a strong, loyal community. Think of the insightful conversations you miss out on with a feedback form.',
+    title: 'Create smarter ads in minutes',
+    body: 'Generate meaningful job advertisements that are tailored to your specific business needs. Without the hassle of buying and managing your own ad campaigns, find the right customers for your business.',
     image: 'illustration-grow-together.svg',
   },
   {
     id: 2,
-    title: 'Flowing Conversations',
-    body: "You wouldn't paginate a conversation in real life, so why do it online? Our threads have just-in-time loading for a more natural flow.",
+    title: 'Edit and organize',
+    body: "Edit and organize all your job listings in one place. Never miss an important update again!",
     image: 'illustration-flowing-conversation.svg',
   },
   {
     id: 3,
     title: 'Your Users',
-    body: "It takes no time at all to integrate Huddle with your app's authentication solution. This means, once signed in to your app, your users can start chatting immediately.",
+    body: "Get your advertisements mailed to you in HTML and PDF so you can easily share and communicate them with your users.",
     image: 'illustration-your-users.svg',
   },
 ]

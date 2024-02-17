@@ -8,22 +8,20 @@ export default function Header() {
     <StyledHeader>
       <Container>
         <Nav>
-          <Logo src='./images/logo.svg' alt='' />
-          <Button>Try It Free</Button>
+          <Logo src='./images/headhunter.png' alt='' />
+          <Button>Login</Button>
         </Nav>
 
         <Flex>
           <div>
-            <h1>Build The Community Your Fans Will Love</h1>
+            <h1>HEADHUNTER the intelligent job ad creator</h1>
 
             <p>
-              Huddle re-imagines the way we build communities. You have a voice,
-              but so does your audience. Create connections with your users as
-              you engage in genuine discussion.
+              HEADHUNTER helps you create perfect job listings for your target in minutes. It’s simple and doesn’t require any technical skills.
             </p>
 
             <Button bg='#ff0099' color='#fff'>
-              Get Started For Free
+              Register now
             </Button>
           </div>
 

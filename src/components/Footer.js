@@ -7,16 +7,15 @@ export default function Footer() {
   return (
     <StyledFooter>
       <Container>
-        <img src='./images/logo_white.svg' alt='' />
+        HEADHUNTER
 
         <Flex>
           <ul>
             <li>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-              eiusmod tempor incididunt ut labore et dolore magna aliqua
+              Do not hesitate to contact us. We are always ready to help.
             </li>
             <li>+1-543-123-4567</li>
-            <li>example@huddle.com</li>
+            <li>example@headhunter.ai</li>
           </ul>
           <ul>
             <li>About Us</li>
@@ -33,7 +32,7 @@ export default function Footer() {
           <SocialIcons />
         </Flex>
 
-        <p>&copy; 2021 Huddle. All rights reserved</p>
+        <p>&copy; 2024 Headhunter. All rights reserved</p>
       </Container>
     </StyledFooter>
   )
